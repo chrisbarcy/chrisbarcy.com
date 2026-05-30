@@ -6,17 +6,17 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #EEEBE8;
-  --foreground: #737787;
-  --accent: #737787;
-  --muted: #707079;
-  --border: #737787;
+  --background: #EEEEEE;
+  --foreground: #3D4052;
+  --accent: #4A6FA5;
+  --muted: #737787;
+  --border: #3D4052;
 }
 
 html[data-theme="dark"] {
   --background: #3b4252;
   --foreground: #E3DAC9;
-  --accent: #E3DAC9;
+  --accent: #ffe2ad;
   --muted: #D9D8CD;
   --border: #E3DAC9;
 }
